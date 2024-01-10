@@ -9,3 +9,4 @@
 - Nourin Aman: https://github.com/nourinaman
 - Suzanne Michie: https://github.com/suzannemichie
 - Raymond Fong: https://github.com/rfong1
+- Siti Nurfaezah Binti Zahari https://github.com/faezahari
