@@ -2,6 +2,11 @@
 # The Analytic Alchemists
 
 ## Building Research Software Assignment
+The Analytic Alchemists are a team formed for the collaborative software development assignment
+for the Building Research Software Course (January 2024). This course is part of the 
+Data Science and Machine Learning Software Foundations Certificate programs offered by
+the University of Toronto Data Sciences Institute.
+
 
 ### Team Members and Accounts
 (alphabetical)
