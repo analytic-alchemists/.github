@@ -1,5 +1,7 @@
 # The Analytic Alchemists
 
+![analytic-alchemists-logo](https://github.com/analytic-alchemists/.github/assets/3884360/aab5c187-b2b8-462d-96c6-8a11abd20d7b)
+
 ## Building Research Software Assignment
 
 ### Team Members and Accounts
