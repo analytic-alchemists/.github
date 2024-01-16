@@ -12,8 +12,7 @@ the University of Toronto Data Sciences Institute.
 (alphabetical)
 - Nourin Aman: https://github.com/nourinaman
 - Milan Bhakta: https://github.com/milanbhakta
-- Raymond Fong: https://github.com/rfong1
 - Suzanne M Chalambalacis: https://github.com/suzannemichie
-- Siti Nurfaezah Binti Zahari https://github.com/faezahari
+- Raymond Fong: https://github.com/rfong1
 - Michael Schumaker: https://github.com/mschumak
-
+- Siti Nurfaezah Binti Zahari https://github.com/faezahari
